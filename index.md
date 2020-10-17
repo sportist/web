@@ -1,4 +1,4 @@
-## Welcome to Sportist Fitness Professinoal's help.
+Welcome to Sportist Fitness Professinoal's help.
 
 [Dowload from AppStore](https://apps.apple.com/lk/app/sportist/id1531896320)
 

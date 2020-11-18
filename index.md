@@ -1,6 +1,6 @@
 Welcome to Sportist Fitness Professinoal's help.
 
-[**Eğitmen Ön Kayıt İçin Tıkla**](https://forms.gle/2NFt8euszmSK9hr37)
+[**Eğitmen Ön Kayıt İçin Tıkla / Click to Register as Trainer**](https://forms.gle/2NFt8euszmSK9hr37)
 
 [Kullanıcı Kılavuzu / User Guide](https://raw.githubusercontent.com/sportist/web/gh-pages/docs/tr/egitmen_rehberi_v2.pdf) | [Eğitmen Kılavuzu / Trainer Guide](https://raw.githubusercontent.com/sportist/web/gh-pages/docs/tr/kılavuz_v3.pdf) | [Gizlilik / Privacy Policy](https://api.esport.ist/privacy/)
 

@@ -4,8 +4,8 @@ Welcome to Sportist Fitness Professinoal's help.
 
 [Dowload from AppStore](https://apps.apple.com/lk/app/sportist/id1531896320) | [Dowload from GooglePlay](https://play.google.com/store/apps/details?id=com.bermuda.sportist)
 
-| [Kullanıcı Kılavuzu / User Guide](egitmenrehberi.md) 
-| [Eğitmen Kılavuzu / Trainer Guide](https://raw.githubusercontent.com/sportist/web/gh-pages/docs/tr/kılavuz_v3.pdf) 
+| [Kullanıcı Kılavuzu / User Guide](kullanicirehberi.md) 
+| [Eğitmen Kılavuzu / Trainer Guide](egitmenrehberi.md)
 | [Gizlilik / Privacy Policy](https://api.esport.ist/privacy/)
 
 ![sportist](https://raw.githubusercontent.com/sportist/web/gh-pages/images/sportist.JPG) 

@@ -1,3 +1,5 @@
+![sportist](https://raw.githubusercontent.com/sportist/web/gh-pages/images/sportist_logo.png) 
+
 Welcome to Sportist Fitness Professinoal's help.
 
 [**Eğitmen Ön Kayıt İçin Tıkla / Click to Register as Trainer**](https://forms.gle/2NFt8euszmSK9hr37)
@@ -8,7 +10,7 @@ Welcome to Sportist Fitness Professinoal's help.
 | [Eğitmen Kılavuzu / Trainer Guide](egitmenrehberi.html)
 | [Gizlilik / Privacy Policy](privacy.html)
 
-![sportist](https://raw.githubusercontent.com/sportist/web/gh-pages/images/sportist.JPG) 
+
 
 
 ![sportist](https://raw.githubusercontent.com/sportist/web/gh-pages/images/sportist_app.JPG) 
